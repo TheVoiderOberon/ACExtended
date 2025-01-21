@@ -1,0 +1,7 @@
+name: acextended
+displayName: ACExtended
+author: voider
+description: "could've just merged with the fixed AC but its fine"
+version: "well"
+minGameVersion: 136
+dependencies: ["additional-content"]
