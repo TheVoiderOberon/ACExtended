@@ -1,7 +1,8 @@
 name: acextended
 displayName: ACExtended
 author: voider
-description: "could've just merged with the fixed AC but its fine"
+description: "could've just merged with the fixed AC but its fine
+build the maps are made on is bleeding edge build 25511"
 version: "well"
-minGameVersion: 136
+minGameVersion: 147
 dependencies: ["additional-content"]
